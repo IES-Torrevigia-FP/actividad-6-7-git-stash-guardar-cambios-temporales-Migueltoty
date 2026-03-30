@@ -1,0 +1,10 @@
+stash@{0}: On main: WIP login paso 4
+stash@{1}: On main: WIP login paso 3
+
+
+git stash apply stash@{1}
+
+
+es una buena práctica fundamental porque convierte un "almacenamiento anónimo" en un registro organizado de tu trabajo
+
+
