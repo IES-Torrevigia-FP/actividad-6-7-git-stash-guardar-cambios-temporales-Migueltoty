@@ -1,0 +1,14 @@
+stash@{0}: On main: WIP login pasos 1 y 2
+
+
+
+788eff6 (hotfix) Aplica hotfix urgente
+b0a0beb (refs/stash) On main: WIP login pasos 1 y 2
+d43c0fd index on main: 65deddd Define tarea principal de login
+65deddd (HEAD -> main) Define tarea principal de login
+b391b40 (origin/main, origin/HEAD) add deadline
+e86c405 Initial commi
+
+
+
+Los cambios de login se aislaron y revirtieron temporalmente en la rama 

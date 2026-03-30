@@ -1,0 +1,14 @@
+##Antes:
+miguel@miguel-VirtualBox:~/Documentos/dev/actividad-6-7-git-stash-guardar-cambios-temporales-Migueltoty$ git stash list
+stash@{0}: On main: WIP login pasos 1 y 2
+
+##Después:
+miguel@miguel-VirtualBox:~/Documentos/dev/actividad-6-7-git-stash-guardar-cambios-temporales-Migueltoty$ git stash list
+
+
+
+git stash pop aplica los cambios guardados y los elimina de la lista de stash, mientras que git stash apply aplica los cambios pero los mantiene en la lista
+
+
+
+
